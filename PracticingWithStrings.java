@@ -21,6 +21,7 @@ public class PracticingWithStrings {
         }
         System.out.println(""); // Blank for space
         String replaceGreeting = greeting.replace('?', '!');
-        System.out.println("This will replace ? to !: " + replaceGreeting);
+        System.out.println("replace() will replace ? to ! = " + replaceGreeting);
+        System.out.println(""); // Blank for space
     }
 }
